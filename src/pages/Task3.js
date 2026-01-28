@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Card, Table, ListGroup } from 'react-bootstrap';
+import { Container, Card, Table, ListGroup,Image } from 'react-bootstrap';
 
 function Task3() {
   return (
