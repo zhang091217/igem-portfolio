@@ -5,7 +5,21 @@ function Task3() {
   return (
     <Container className="py-5">
       <h1 className="mb-4">📊 任务三：优秀项目分析</h1>
-      
+
+       <div className="text-center mb-5">
+        <Image 
+          src={process.env.PUBLIC_URL + "/images/task3-header.jpg"} 
+          alt="优秀iGEM项目分析概览" 
+          fluid 
+          rounded
+          className="shadow border"
+          style={{ maxHeight: '400px', objectFit: 'cover' }}
+        />
+        <p className="text-muted mt-2">
+          <small>图：iGEM优秀Wiki项目技术架构与设计分析概览</small>
+        </p >
+      </div>
+
       <Card className="mb-4 shadow">
         <Card.Header>分析概述</Card.Header>
         <Card.Body>
