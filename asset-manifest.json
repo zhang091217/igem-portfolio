@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/igem-portfolio/static/css/main.88900fcd.css",
-    "main.js": "/igem-portfolio/static/js/main.de199f00.js",
+    "main.js": "/igem-portfolio/static/js/main.70bc8fcc.js",
     "static/js/453.253d00af.chunk.js": "/igem-portfolio/static/js/453.253d00af.chunk.js",
     "index.html": "/igem-portfolio/index.html",
     "main.88900fcd.css.map": "/igem-portfolio/static/css/main.88900fcd.css.map",
-    "main.de199f00.js.map": "/igem-portfolio/static/js/main.de199f00.js.map",
+    "main.70bc8fcc.js.map": "/igem-portfolio/static/js/main.70bc8fcc.js.map",
     "453.253d00af.chunk.js.map": "/igem-portfolio/static/js/453.253d00af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88900fcd.css",
-    "static/js/main.de199f00.js"
+    "static/js/main.70bc8fcc.js"
   ]
 }
